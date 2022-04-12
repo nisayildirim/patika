@@ -1,4 +1,4 @@
-##Proje 1
+## Proje 1
 
 
 *Çözümlere başlamadan önce, ilk olarak Insertion Sort'un ne olduğunu hatırlayalım. Verilen örüntüye göre en küçük elemanın en başa geçip, en baştaki elemanın ise onun yerine geçmesiyle tekrarlanan bir sıralama tekniğidir.
