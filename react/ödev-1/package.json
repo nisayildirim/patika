@@ -1,0 +1,22 @@
+{
+  "name": "patika",
+  "version": "1.0.0",
+  "description": "includes ödev-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nisayildirim/patika.git"
+  },
+  "keywords": [
+    "react-ödev-1"
+  ],
+  "author": "nisa yildirim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisayildirim/patika/issues"
+  },
+  "homepage": "https://github.com/nisayildirim/patika#readme"
+}
